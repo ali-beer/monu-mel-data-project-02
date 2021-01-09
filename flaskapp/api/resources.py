@@ -1,33 +1,37 @@
-from flaskapp import db
 from flask_restful import Resource
 from flask import request
+import pandas as pd
+import json
 
-'''
-EXAMPLE
-from flaskapp.main.models import Message
+# ibra = pd.read_csv('data/ibra.csv', delimiter=',', header=0, index_col=False, low_memory=False)
+# ibra_bioregions = pd.read_csv('data/ibra_bioregions.csv', delimiter=',', header=0, index_col=False, low_memory=False)
+ibra_df = pd.read_csv('data/ibra_bioregions_w_total_ce.csv', delimiter=',', header=0, index_col=False, low_memory=False)
 
-# Marshmallow MessageSchema
-class MessageSchema(ma.SQLAlchemySchema):
-    class Meta:
-        model = Message
+# IUCN
+bioregion_by_IUCN_df = pd.read_csv('data/bioregion_by_IUCN.csv', delimiter=',', header=0, index_col=False, low_memory=False)
+IUCN_category_df = pd.read_csv('data/IUCN_category.csv', delimiter=',', header=0, index_col=False, low_memory=False)
 
-    id = ma.auto_field()
-    name = ma.auto_field()
-    email = ma.auto_field()
-    phone = ma.auto_field()
-    body = ma.auto_field()
-    date_submitted = ma.auto_field()
+ibra_df_json = json.loads(ibra_df.to_json(orient="records"))
+iucn_df_json = json.loads(bioregion_by_IUCN_df.to_json(orient="records"))
 
 
-# Initaiting MessageSchema, one for all messages, the other for particular messages
-messages_schema = MessageSchema(many=True)
-message_schema = MessageSchema()
-
-
-class MessagesAPI(Resource):
-    # Defining get to get messages according to their 'id' in acending order
+class WelcomeAPI(Resource):
     def get(self):
-        messages = Message.query.order_by(Message.id.asc()) # dumping the message according to the message_schema
-        ret = ({'messages': messages_schema.dump(messages)}, 200) # respond with the data and a 200 approved message
+        ret = ({"message": "Welcome! Go to /api/ibra for IBRA data, or go to /api/iucn for IUCN data"}, 200)
         return ret[0], ret[1]
-''' 
+
+
+class IBRA_API(Resource):
+    global ibra_df_json
+
+    def get(self):
+        ret = (ibra_df_json, 200)
+        return ret[0], ret[1]
+
+class IUCN_API(Resource):
+    global iucn_df_json
+
+    def get(self):
+        ret = (iucn_df_json, 200)
+        return ret[0], ret[1]
+
