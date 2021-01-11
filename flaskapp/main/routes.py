@@ -1,6 +1,7 @@
 from flask import render_template, url_for, flash, redirect, Blueprint
 from datetime import datetime
 from flaskapp.main.models import Team
+from flask_cors import cross_origin
 
 main = Blueprint('main', __name__)
 
@@ -12,6 +13,7 @@ def index():
     return render_template('index.html')
 
 @main.route("/analysis", methods=['GET', 'POST'])
+@cross_origin(origin='localhost', headers=['Content-Type'])
 def analysis():
     return render_template('dashboard.html')
 
@@ -23,4 +25,3 @@ def about():
         'jacobsussmilch': Team.query.filter_by(name='jacobsussmilch').first().image_file
     }
     return render_template('about.html', image_files=image_files)
-

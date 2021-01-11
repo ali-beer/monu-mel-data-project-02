@@ -1,5 +1,6 @@
 from flask import Blueprint, jsonify, request
 from flaskapp.api.resources import WelcomeAPI, IBRA_API, IUCN_API, SUNBURST_API
+from flask_cors import cross_origin
 
 # Initiating API blueprint
 api_bp = Blueprint('api', __name__)

@@ -67,10 +67,14 @@ function createMarkers(response) {
 }
 
 // Perform an API call to the local host port 5000 API to get information. Call createMarkers when complete
-var queryUrl = "port5000/localhost/API/IBRA";
+var IBRAqueryUrl = "http://localhost:5000/api/ibra";
+var IUCNqueryUrl = "http://localhost:5000/api/iucn";
 
-d3.json(queryUrl, createMarkers);
 
-// d3.json(queryUrl, function(data) {
-//   console.log(data);
-// });
+d3.json(IBRAqueryUrl, createMarkers);
+d3.json(IUCNqueryUrl, createMarkers);
+
+
+d3.json(IBRAqueryUrl, function(data) {
+   console.log(data);
+});

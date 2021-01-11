@@ -3,14 +3,15 @@ from flask_sqlalchemy import SQLAlchemy
 from flask_migrate import Migrate
 from .config import Config
 from flask_restful import Api
+from flask_cors import CORS
 
-app = Flask(__name__)
 db = SQLAlchemy()
 api = Api()
+cors = CORS()
 
-
-def create_app(config_class=Config, api=api, db=db):
+def create_app(config_class=Config, api=api, db=db, cors=cors):
     app = Flask(__name__)
+
     app.config.from_object(Config)
 
     # Initializing API routes
@@ -21,6 +22,7 @@ def create_app(config_class=Config, api=api, db=db):
 
     db.init_app(app)
     api.init_app(app)
+    cors.init_app(app, resources={r"/api/*": {"origins": "*"}})
 
     Migrate(app, db)
 
