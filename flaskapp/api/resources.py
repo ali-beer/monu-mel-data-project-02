@@ -5,7 +5,7 @@ import json
 
 # ibra = pd.read_csv('data/ibra.csv', delimiter=',', header=0, index_col=False, low_memory=False)
 # ibra_bioregions = pd.read_csv('data/ibra_bioregions.csv', delimiter=',', header=0, index_col=False, low_memory=False)
-ibra_df = pd.read_csv('data/ibra_bioregions_w_total_ce.csv', delimiter=',', header=0, index_col=False, low_memory=False)
+ibra_df = pd.read_csv('data/ibra_bioregions_w_total_ce_&_latlong.csv', delimiter=',', header=0, index_col=False, low_memory=False)
 
 # IUCN
 bioregion_by_IUCN_df = pd.read_csv('data/bioregion_by_IUCN.csv', delimiter=',', header=0, index_col=False, low_memory=False)

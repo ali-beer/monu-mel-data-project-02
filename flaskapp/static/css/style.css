@@ -41,6 +41,11 @@
   --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
+#map-id { 
+  height: 500px;
+  width: 100%;
+}
+
 *,
 *::before,
 *::after {
