@@ -14,6 +14,9 @@ IUCN_category_df = pd.read_csv('data/IUCN_category.csv', delimiter=',', header=0
 ibra_df_json = json.loads(ibra_df.to_json(orient="records"))
 iucn_df_json = json.loads(bioregion_by_IUCN_df.to_json(orient="records"))
 
+with open('data/sunburst_graph_data.json') as json_file:
+    sunburst_json = json.load(json_file)
+
 
 class WelcomeAPI(Resource):
     def get(self):
@@ -33,5 +36,12 @@ class IUCN_API(Resource):
 
     def get(self):
         ret = (iucn_df_json, 200)
+        return ret[0], ret[1]
+
+class SUNBURST_API(Resource):
+    global sunburst_json
+
+    def get(self):
+        ret = (sunburst_json, 200)
         return ret[0], ret[1]
 

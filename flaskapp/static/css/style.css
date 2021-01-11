@@ -10007,7 +10007,7 @@ p {
 }
 
 .page-section {
-  padding: 6rem 0;
+  padding: 5rem 0;
 }
 .page-section h2.section-heading {
   font-size: 2.5rem;
@@ -10142,9 +10142,8 @@ header.masthead {
   color: #fff;
   background-image: url("../img/deforestation.jpg");
   background-repeat: no-repeat;
-  background-attachment: scroll;
   background-position: center center;
-  background-size: cover;
+  background-size: fill;
   height: 100vh;
 }
 header.masthead .masthead-subheading {

@@ -1,0 +1,17 @@
+CREATE TABLE team (
+	id INTEGER NOT NULL,
+	name VARCHAR(20) NOT NULL,
+	image_file VARCHAR(20) NOT NULL,
+	PRIMARY KEY (id),
+	UNIQUE (name),
+	UNIQUE (image_file)
+);
+
+INSERT INTO team (name, image_file)
+VALUES ( 'gracex', 'gracex.jpg');
+
+INSERT INTO team (name, image_file)
+VALUES ( 'alisonbeer', 'alisonbeer.jpg');
+
+INSERT INTO team (name, image_file)
+VALUES ( 'jacobsussmilch', 'jacobsussmilch.jpg');
