@@ -29,7 +29,7 @@ function createMarkers(response) {
   }
 }
 
-var IBRAqueryUrl = "http://localhost:5000/api/ibra";
+var IBRAqueryUrl = "http://localhost/api/ibra";
 
 d3.json(IBRAqueryUrl, createMarkers);
 
