@@ -2,7 +2,7 @@
 
 var mymap = L.map('map-id', {
   center: [-33.865143, 151.209900],
-  zoom: 13
+  zoom: 4
 });
 
 
@@ -24,7 +24,6 @@ function createMarkers(response) {
 
     // For each station, create a marker and bind a popup with the IBRA region name
     var marker = L.marker([response[i]["lat"], response[i]["long"]]);
-    // var marker = L.marker([-33.865143, 151.209900 + (2*i)]);
     marker.bindPopup(`<h1>${response[i]["IBRA Region Name"]}<h1><h2>% protected: ${response[i]["% IBRA Region Protected"]}</h2><h3>Total critically endangered: ${response[i]["total_ce"]}</h3>`);
     marker.addTo(mymap)
   }

@@ -11,18 +11,21 @@
   <title>monu-mel-data-project-02</title>
 
   <!-- Bootstrap core CSS -->
-  <link href="static/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="static/css/style.css" rel="stylesheet">
+  <link href="static/vendor/bootstrap/css/bootstrap.min.css" type="text/css" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+
+  <link href="static/css/style.css" type="text/css" rel="stylesheet">
+  <link href="static/css/inspector.css" type="text/css" rel="stylesheet">
 
   <!-- Leaflet CSS -->
-  <link href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" rel="stylesheet">
+  <link href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" type="text/css" rel="stylesheet">
 
 </head>
 
 <body>
 
   <!-- Navigation -->
-  <nav class="navbar navbar-expand-lg navbar-dark bg-dark static-top">
+  <nav class="navbar navbar-expand-lg navbar-dark bg-nav2 static-top">
     <div class="container">
       <a class="navbar-brand" href="#">monu-mel-data-project-02 - Analysis</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
@@ -48,7 +51,7 @@
     <div class="container">
       <div class="row mb-5">
         <div class="col-lg-12 text-center">
-          <h1>View 1</h1>
+          <h1>Map</h1>
         </div>
       </div>
       <div class="row">
@@ -58,60 +61,23 @@
     </div>
   </section>
 
-  <section class="page-section bg-light" id="view2">
-
-    <!-- Page Content -->
-    <div class="container">
-      <div class="row mb-5">
-        <div class="col-lg-12 text-center">
-          <h1>View 2</h1>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-lg-12 text-center">
-          <!-- INSERT DATA VIZ TOOL HERE -->
-          <h1 class="mt-5">View 2</h1>
-          <p class="lead">Complete with pre-defined file paths and responsive navigation!</p>
-          <ul class="list-unstyled">
-            <li>Bootstrap 4.5.3</li>
-            <li>jQuery 3.5.1</li>
-          </ul>
-        </div>
+  <section class="page-section bg-light" id="view3">
+    <div class="container col-lg-8" id="sunburst">
+      <div class="col-lg-12 mb-5 text-center">
+        <h1>Sunburst</h1>
       </div>
     </div>
   </section>
 
-  <section class="page-section" id="view3">
+  <section class="page-section" id="view2">
+
+    <!-- Page Content -->
     <div class="container">
-      <div class="row mb-5">
-        <div class="col-lg-12 text-center">
-          <h1>View 3</h1>
-        </div>
+      <div class="col-lg-12 mb-5 text-center">
+        <h1>Explore the Data Yourself</h1>
       </div>
-      <div class="row">
-        <div class="col-md-2">
-          <div class="well mb-3">
-            <h5>Test Subject ID No.:</h5>
-            <select id="selDataset" onchange="optionChanged(this.value)"></select>
-          </div>
-          <div class="panel panel-primary">
-            <div class="panel-heading">
-              <h5 class="panel-title">Demographic Info</h5>
-            </div>
-            <div id="sample-metadata" class="panel-body"></div>
-          </div>
-        </div>
-        <div class="col-md-5">
-          <div id="bar"></div>
-        </div>
-        <div class="col-md-5">
-          <div id="pie"></div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-md-12">
-          <div id="bubble"></div>
-        </div>
+      <div class="row text-center">
+        <p>Go to /api/ibra for our data</p>
       </div>
     </div>
   </section>
@@ -120,10 +86,7 @@
   <script src="static/vendor/jquery/jquery.slim.min.js"></script>
   <script src="static/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
-  <!-- Belly Button App -->
-  <script type="text/javascript" src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-  <script type="text/javascript" src="static/js/belly-app.js"></script>
-
+  <!-- D3 JS -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.5.0/d3.min.js"></script>
 
   <!-- Leaflet JS -->
@@ -131,6 +94,17 @@
 
   <!-- Our JavaScript -->
   <script type="text/javascript" src="static/js/map.js"></script>
+
+  <script type="module">
+    import define from "/static/js/sunburst/index.js";
+    import {Runtime, Library, Inspector} from "/static/js/sunburst/runtime.js";
+
+    const runtime = new Runtime();
+    const main = runtime.module(define, Inspector.into(document.querySelector(`#sunburst`)));
+
+  </script>
+
+  <script type="text/javascript" src="static/js/table/table.js"></script>
 
 </body>
 

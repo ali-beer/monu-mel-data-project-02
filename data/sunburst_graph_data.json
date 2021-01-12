@@ -6,1714 +6,966 @@
       "children": [
         {
           "name": "Arnhem Coast",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 1.17",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 53.35",
-              "value": 0.0
-            }
-          ]
+          "value": 1.17,
+          "ctn": "Contribution to NRS(%)    : 1.17",
+          "irp": "IBRA Region Protected(%): 53.35",
+          "irp_value": 53.35
         },
         {
           "name": "Arnhem Plateau",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 1.14",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 74.96",
-              "value": 0.0
-            }
-          ]
+          "value": 1.14,
+          "ctn": "Contribution to NRS(%)    : 1.14",
+          "irp": "IBRA Region Protected(%): 74.96",
+          "irp_value": 74.96
         },
         {
           "name": "Burt Plain",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.33",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 6.68",
-              "value": 0.0
-            }
-          ]
+          "value": 0.33,
+          "ctn": "Contribution to NRS(%)    : 0.33",
+          "irp": "IBRA Region Protected(%): 6.68",
+          "irp_value": 6.68
         },
         {
           "name": "Central Arnhem",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.78",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 34.08",
-              "value": 0.0
-            }
-          ]
+          "value": 0.78,
+          "ctn": "Contribution to NRS(%)    : 0.78",
+          "irp": "IBRA Region Protected(%): 34.08",
+          "irp_value": 34.08
         },
         {
           "name": "Central Ranges",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 5.45",
-              "value": 2.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 81.32",
-              "value": 2.0
-            }
-          ]
+          "value": 5.45,
+          "ctn": "Contribution to NRS(%)    : 5.45",
+          "irp": "IBRA Region Protected(%): 81.32",
+          "irp_value": 81.32
         },
         {
           "name": "Daly Basin",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.14",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 10.47",
-              "value": 0.0
-            }
-          ]
+          "value": 0.14,
+          "ctn": "Contribution to NRS(%)    : 0.14",
+          "irp": "IBRA Region Protected(%): 10.47",
+          "irp_value": 10.47
         },
         {
           "name": "Darwin Coastal",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.58",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 30.9",
-              "value": 0.0
-            }
-          ]
+          "value": 0.58,
+          "ctn": "Contribution to NRS(%)    : 0.58",
+          "irp": "IBRA Region Protected(%): 30.9",
+          "irp_value": 30.9
         },
         {
           "name": "Davenport Murchison Ranges",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.09",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 2.24",
-              "value": 0.0
-            }
-          ]
+          "value": 0.09,
+          "ctn": "Contribution to NRS(%)    : 0.09",
+          "irp": "IBRA Region Protected(%): 2.24",
+          "irp_value": 2.24
         },
         {
           "name": "Finke",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.22",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 4.6",
-              "value": 0.0
-            }
-          ]
+          "value": 0.22,
+          "ctn": "Contribution to NRS(%)    : 0.22",
+          "irp": "IBRA Region Protected(%): 4.6",
+          "irp_value": 4.6
         },
         {
           "name": "Great Sandy Desert",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 9.67",
-              "value": 4.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 37.12",
-              "value": 4.0
-            }
-          ]
+          "value": 9.67,
+          "ctn": "Contribution to NRS(%)    : 9.67",
+          "irp": "IBRA Region Protected(%): 37.12",
+          "irp_value": 37.12
         },
         {
           "name": "Gulf Coastal",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.55",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 30.6",
-              "value": 0.0
-            }
-          ]
+          "value": 0.55,
+          "ctn": "Contribution to NRS(%)    : 0.55",
+          "irp": "IBRA Region Protected(%): 30.6",
+          "irp_value": 30.6
         },
         {
           "name": "Gulf Fall and Uplands",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 1.91",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 24.37",
-              "value": 0.0
-            }
-          ]
+          "value": 1.91,
+          "ctn": "Contribution to NRS(%)    : 1.91",
+          "irp": "IBRA Region Protected(%): 24.37",
+          "irp_value": 24.37
         },
         {
           "name": "MacDonnell Ranges",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.38",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 14.75",
-              "value": 0.0
-            }
-          ]
+          "value": 0.38,
+          "ctn": "Contribution to NRS(%)    : 0.38",
+          "irp": "IBRA Region Protected(%): 14.75",
+          "irp_value": 14.75
         },
         {
           "name": "Mitchell Grass Downs",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.35",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 1.57",
-              "value": 0.0
-            }
-          ]
+          "value": 0.35,
+          "ctn": "Contribution to NRS(%)    : 0.35",
+          "irp": "IBRA Region Protected(%): 1.57",
+          "irp_value": 1.57
         },
         {
           "name": "Mount Isa Inlier",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.25",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 5.56",
-              "value": 0.0
-            }
-          ]
+          "value": 0.25,
+          "ctn": "Contribution to NRS(%)    : 0.25",
+          "irp": "IBRA Region Protected(%): 5.56",
+          "irp_value": 5.56
         },
         {
           "name": "Ord Victoria Plain",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.98",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 11.86",
-              "value": 0.0
-            }
-          ]
+          "value": 0.98,
+          "ctn": "Contribution to NRS(%)    : 0.98",
+          "irp": "IBRA Region Protected(%): 11.86",
+          "irp_value": 11.86
         },
         {
           "name": "Pine Creek",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.8",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 42.68",
-              "value": 0.0
-            }
-          ]
+          "value": 0.8,
+          "ctn": "Contribution to NRS(%)    : 0.8",
+          "irp": "IBRA Region Protected(%): 42.68",
+          "irp_value": 42.68
         },
         {
           "name": "Simpson Strzelecki Dunefields",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 5.7",
-              "value": 2.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 30.85",
-              "value": 2.0
-            }
-          ]
+          "value": 5.7,
+          "ctn": "Contribution to NRS(%)    : 5.7",
+          "irp": "IBRA Region Protected(%): 30.85",
+          "irp_value": 30.85
         },
         {
           "name": "Sturt Plateau",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.05",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 0.7",
-              "value": 0.0
-            }
-          ]
+          "value": 0.05,
+          "ctn": "Contribution to NRS(%)    : 0.05",
+          "irp": "IBRA Region Protected(%): 0.7",
+          "irp_value": 0.7
         },
         {
           "name": "Tanami",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 7.59",
-              "value": 3.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 44.26",
-              "value": 3.0
-            }
-          ]
+          "value": 7.59,
+          "ctn": "Contribution to NRS(%)    : 7.59",
+          "irp": "IBRA Region Protected(%): 44.26",
+          "irp_value": 44.26
         },
         {
           "name": "Tiwi Cobourg",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.13",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 20.22",
-              "value": 0.0
-            }
-          ]
+          "value": 0.13,
+          "ctn": "Contribution to NRS(%)    : 0.13",
+          "irp": "IBRA Region Protected(%): 20.22",
+          "irp_value": 20.22
         },
         {
           "name": "Victoria Bonaparte",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.98",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 20.37",
-              "value": 0.0
-            }
-          ]
+          "value": 0.98,
+          "ctn": "Contribution to NRS(%)    : 0.98",
+          "irp": "IBRA Region Protected(%): 20.37",
+          "irp_value": 20.37
         }
-      ]
+      ],
+      "ctn": "",
+      "irp": ""
     },
     {
       "name": "ACT",
       "children": [
         {
           "name": "Australian Alps",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.52",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 63.97",
-              "value": 0.0
-            }
-          ]
+          "value": 0.52,
+          "ctn": "Contribution to NRS(%)    : 0.52",
+          "irp": "IBRA Region Protected(%): 63.97",
+          "irp_value": 63.97
         },
         {
           "name": "South Eastern Highlands",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 1.02",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 18.41",
-              "value": 0.0
-            }
-          ]
+          "value": 1.02,
+          "ctn": "Contribution to NRS(%)    : 1.02",
+          "irp": "IBRA Region Protected(%): 18.41",
+          "irp_value": 18.41
         }
-      ]
+      ],
+      "ctn": "",
+      "irp": ""
     },
     {
       "name": "NSW",
       "children": [
         {
           "name": "Australian Alps",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.52",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 63.97",
-              "value": 0.0
-            }
-          ]
+          "value": 0.52,
+          "ctn": "Contribution to NRS(%)    : 0.52",
+          "irp": "IBRA Region Protected(%): 63.97",
+          "irp_value": 63.97
         },
         {
           "name": "Brigalow Belt South",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.96",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 5.33",
-              "value": 0.0
-            }
-          ]
+          "value": 0.96,
+          "ctn": "Contribution to NRS(%)    : 0.96",
+          "irp": "IBRA Region Protected(%): 5.33",
+          "irp_value": 5.33
         },
         {
           "name": "Broken Hill Complex",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.14",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 3.76",
-              "value": 0.0
-            }
-          ]
+          "value": 0.14,
+          "ctn": "Contribution to NRS(%)    : 0.14",
+          "irp": "IBRA Region Protected(%): 3.76",
+          "irp_value": 3.76
         },
         {
           "name": "Channel Country",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 2.1",
-              "value": 1.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 10.46",
-              "value": 1.0
-            }
-          ]
+          "value": 2.1,
+          "ctn": "Contribution to NRS(%)    : 2.1",
+          "irp": "IBRA Region Protected(%): 10.46",
+          "irp_value": 10.46
         },
         {
           "name": "Cobar Peneplain",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.14",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 2.84",
-              "value": 0.0
-            }
-          ]
+          "value": 0.14,
+          "ctn": "Contribution to NRS(%)    : 0.14",
+          "irp": "IBRA Region Protected(%): 2.84",
+          "irp_value": 2.84
         },
         {
           "name": "Darling Riverine Plains",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.19",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 2.66",
-              "value": 0.0
-            }
-          ]
+          "value": 0.19,
+          "ctn": "Contribution to NRS(%)    : 0.19",
+          "irp": "IBRA Region Protected(%): 2.66",
+          "irp_value": 2.66
         },
         {
           "name": "Mulga Lands",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.79",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 4.77",
-              "value": 0.0
-            }
-          ]
+          "value": 0.79,
+          "ctn": "Contribution to NRS(%)    : 0.79",
+          "irp": "IBRA Region Protected(%): 4.77",
+          "irp_value": 4.77
         },
         {
           "name": "Murray Darling Depression",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 2.24",
-              "value": 1.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 17.01",
-              "value": 1.0
-            }
-          ]
+          "value": 2.24,
+          "ctn": "Contribution to NRS(%)    : 2.24",
+          "irp": "IBRA Region Protected(%): 17.01",
+          "irp_value": 17.01
         },
         {
           "name": "Nandewar",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.06",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 3.53",
-              "value": 0.0
-            }
-          ]
+          "value": 0.06,
+          "ctn": "Contribution to NRS(%)    : 0.06",
+          "irp": "IBRA Region Protected(%): 3.53",
+          "irp_value": 3.53
         },
         {
           "name": "New England Tablelands",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.2",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 10.08",
-              "value": 0.0
-            }
-          ]
+          "value": 0.2,
+          "ctn": "Contribution to NRS(%)    : 0.2",
+          "irp": "IBRA Region Protected(%): 10.08",
+          "irp_value": 10.08
         },
         {
           "name": "NSW North Coast",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.66",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 25.06",
-              "value": 0.0
-            }
-          ]
+          "value": 0.66,
+          "ctn": "Contribution to NRS(%)    : 0.66",
+          "irp": "IBRA Region Protected(%): 25.06",
+          "irp_value": 25.06
         },
         {
           "name": "NSW South Western Slopes",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.17",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 2.93",
-              "value": 0.0
-            }
-          ]
+          "value": 0.17,
+          "ctn": "Contribution to NRS(%)    : 0.17",
+          "irp": "IBRA Region Protected(%): 2.93",
+          "irp_value": 2.93
         },
         {
           "name": "Pacific Subtropical Islands",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.0",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 33.66",
-              "value": 0.0
-            }
-          ]
+          "value": 0.0,
+          "ctn": "Contribution to NRS(%)    : 0.0",
+          "irp": "IBRA Region Protected(%): 33.66",
+          "irp_value": 33.66
         },
         {
           "name": "Riverina",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.36",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 5.59",
-              "value": 0.0
-            }
-          ]
+          "value": 0.36,
+          "ctn": "Contribution to NRS(%)    : 0.36",
+          "irp": "IBRA Region Protected(%): 5.59",
+          "irp_value": 5.59
         },
         {
           "name": "Simpson Strzelecki Dunefields",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 5.7",
-              "value": 2.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 30.85",
-              "value": 2.0
-            }
-          ]
+          "value": 5.7,
+          "ctn": "Contribution to NRS(%)    : 5.7",
+          "irp": "IBRA Region Protected(%): 30.85",
+          "irp_value": 30.85
         },
         {
           "name": "South East Corner",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.61",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 36.54",
-              "value": 0.0
-            }
-          ]
+          "value": 0.61,
+          "ctn": "Contribution to NRS(%)    : 0.61",
+          "irp": "IBRA Region Protected(%): 36.54",
+          "irp_value": 36.54
         },
         {
           "name": "South Eastern Highlands",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 1.02",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 18.41",
-              "value": 0.0
-            }
-          ]
+          "value": 1.02,
+          "ctn": "Contribution to NRS(%)    : 1.02",
+          "irp": "IBRA Region Protected(%): 18.41",
+          "irp_value": 18.41
         },
         {
           "name": "South Eastern Queensland",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.73",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 14.21",
-              "value": 0.0
-            }
-          ]
+          "value": 0.73,
+          "ctn": "Contribution to NRS(%)    : 0.73",
+          "irp": "IBRA Region Protected(%): 14.21",
+          "irp_value": 14.21
         },
         {
           "name": "Sydney Basin",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.96",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 40.14",
-              "value": 0.0
-            }
-          ]
+          "value": 0.96,
+          "ctn": "Contribution to NRS(%)    : 0.96",
+          "irp": "IBRA Region Protected(%): 40.14",
+          "irp_value": 40.14
         }
-      ]
+      ],
+      "ctn": "",
+      "irp": ""
     },
     {
       "name": "VIC",
       "children": [
         {
           "name": "Australian Alps",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.52",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 63.97",
-              "value": 0.0
-            }
-          ]
+          "value": 0.52,
+          "ctn": "Contribution to NRS(%)    : 0.52",
+          "irp": "IBRA Region Protected(%): 63.97",
+          "irp_value": 63.97
         },
         {
           "name": "Furneaux",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.12",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 34.36",
-              "value": 0.0
-            }
-          ]
+          "value": 0.12,
+          "ctn": "Contribution to NRS(%)    : 0.12",
+          "irp": "IBRA Region Protected(%): 34.36",
+          "irp_value": 34.36
         },
         {
           "name": "Murray Darling Depression",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 2.24",
-              "value": 1.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 17.01",
-              "value": 1.0
-            }
-          ]
+          "value": 2.24,
+          "ctn": "Contribution to NRS(%)    : 2.24",
+          "irp": "IBRA Region Protected(%): 17.01",
+          "irp_value": 17.01
         },
         {
           "name": "Naracoorte Coastal Plain",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.16",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 9.62",
-              "value": 0.0
-            }
-          ]
+          "value": 0.16,
+          "ctn": "Contribution to NRS(%)    : 0.16",
+          "irp": "IBRA Region Protected(%): 9.62",
+          "irp_value": 9.62
         },
         {
           "name": "NSW South Western Slopes",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.17",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 2.93",
-              "value": 0.0
-            }
-          ]
+          "value": 0.17,
+          "ctn": "Contribution to NRS(%)    : 0.17",
+          "irp": "IBRA Region Protected(%): 2.93",
+          "irp_value": 2.93
         },
         {
           "name": "Riverina",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.36",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 5.59",
-              "value": 0.0
-            }
-          ]
+          "value": 0.36,
+          "ctn": "Contribution to NRS(%)    : 0.36",
+          "irp": "IBRA Region Protected(%): 5.59",
+          "irp_value": 5.59
         },
         {
           "name": "South East Coastal Plain",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.1",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 8.78",
-              "value": 0.0
-            }
-          ]
+          "value": 0.1,
+          "ctn": "Contribution to NRS(%)    : 0.1",
+          "irp": "IBRA Region Protected(%): 8.78",
+          "irp_value": 8.78
         },
         {
           "name": "South East Corner",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.61",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 36.54",
-              "value": 0.0
-            }
-          ]
+          "value": 0.61,
+          "ctn": "Contribution to NRS(%)    : 0.61",
+          "irp": "IBRA Region Protected(%): 36.54",
+          "irp_value": 36.54
         },
         {
           "name": "South Eastern Highlands",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 1.02",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 18.41",
-              "value": 0.0
-            }
-          ]
+          "value": 1.02,
+          "ctn": "Contribution to NRS(%)    : 1.02",
+          "irp": "IBRA Region Protected(%): 18.41",
+          "irp_value": 18.41
         },
         {
           "name": "Southern Volcanic Plain",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.03",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 2.13",
-              "value": 0.0
-            }
-          ]
+          "value": 0.03,
+          "ctn": "Contribution to NRS(%)    : 0.03",
+          "irp": "IBRA Region Protected(%): 2.13",
+          "irp_value": 2.13
         },
         {
           "name": "Victorian Midlands",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.26",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 11.43",
-              "value": 0.0
-            }
-          ]
+          "value": 0.26,
+          "ctn": "Contribution to NRS(%)    : 0.26",
+          "irp": "IBRA Region Protected(%): 11.43",
+          "irp_value": 11.43
         }
-      ]
+      ],
+      "ctn": "",
+      "irp": ""
     },
     {
       "name": "WA",
       "children": [
         {
           "name": "Avon Wheatbelt",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.25",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 3.95",
-              "value": 0.0
-            }
-          ]
+          "value": 0.25,
+          "ctn": "Contribution to NRS(%)    : 0.25",
+          "irp": "IBRA Region Protected(%): 3.95",
+          "irp_value": 3.95
         },
         {
           "name": "Carnarvon",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.75",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 13.49",
-              "value": 0.0
-            }
-          ]
+          "value": 0.75,
+          "ctn": "Contribution to NRS(%)    : 0.75",
+          "irp": "IBRA Region Protected(%): 13.49",
+          "irp_value": 13.49
         },
         {
           "name": "Central Kimberley",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 1.62",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 31.9",
-              "value": 0.0
-            }
-          ]
+          "value": 1.62,
+          "ctn": "Contribution to NRS(%)    : 1.62",
+          "irp": "IBRA Region Protected(%): 31.9",
+          "irp_value": 31.9
         },
         {
           "name": "Central Ranges",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 5.45",
-              "value": 2.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 81.32",
-              "value": 2.0
-            }
-          ]
+          "value": 5.45,
+          "ctn": "Contribution to NRS(%)    : 5.45",
+          "irp": "IBRA Region Protected(%): 81.32",
+          "irp_value": 81.32
         },
         {
           "name": "Coolgardie",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 1.07",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 12.53",
-              "value": 0.0
-            }
-          ]
+          "value": 1.07,
+          "ctn": "Contribution to NRS(%)    : 1.07",
+          "irp": "IBRA Region Protected(%): 12.53",
+          "irp_value": 12.53
         },
         {
           "name": "Dampierland",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.81",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 14.62",
-              "value": 0.0
-            }
-          ]
+          "value": 0.81,
+          "ctn": "Contribution to NRS(%)    : 0.81",
+          "irp": "IBRA Region Protected(%): 14.62",
+          "irp_value": 14.62
         },
         {
           "name": "Esperance Plains",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.56",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 29.24",
-              "value": 0.0
-            }
-          ]
+          "value": 0.56,
+          "ctn": "Contribution to NRS(%)    : 0.56",
+          "irp": "IBRA Region Protected(%): 29.24",
+          "irp_value": 29.24
         },
         {
           "name": "Gascoyne",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 1.78",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 14.95",
-              "value": 0.0
-            }
-          ]
+          "value": 1.78,
+          "ctn": "Contribution to NRS(%)    : 1.78",
+          "irp": "IBRA Region Protected(%): 14.95",
+          "irp_value": 14.95
         },
         {
           "name": "Geraldton Sandplains",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.39",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 18.96",
-              "value": 0.0
-            }
-          ]
+          "value": 0.39,
+          "ctn": "Contribution to NRS(%)    : 0.39",
+          "irp": "IBRA Region Protected(%): 18.96",
+          "irp_value": 18.96
         },
         {
           "name": "Gibson Desert",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 6.02",
-              "value": 3.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 58.4",
-              "value": 3.0
-            }
-          ]
+          "value": 6.02,
+          "ctn": "Contribution to NRS(%)    : 6.02",
+          "irp": "IBRA Region Protected(%): 58.4",
+          "irp_value": 58.4
         },
         {
           "name": "Great Sandy Desert",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 9.67",
-              "value": 4.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 37.12",
-              "value": 4.0
-            }
-          ]
+          "value": 9.67,
+          "ctn": "Contribution to NRS(%)    : 9.67",
+          "irp": "IBRA Region Protected(%): 37.12",
+          "irp_value": 37.12
         },
         {
           "name": "Great Victoria Desert",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 8.53",
-              "value": 4.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 30.62",
-              "value": 4.0
-            }
-          ]
+          "value": 8.53,
+          "ctn": "Contribution to NRS(%)    : 8.53",
+          "irp": "IBRA Region Protected(%): 30.62",
+          "irp_value": 30.62
         },
         {
           "name": "Hampton",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.11",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 14.64",
-              "value": 0.0
-            }
-          ]
+          "value": 0.11,
+          "ctn": "Contribution to NRS(%)    : 0.11",
+          "irp": "IBRA Region Protected(%): 14.64",
+          "irp_value": 14.64
         },
         {
           "name": "Indian Tropical Islands",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.01",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 31.73",
-              "value": 0.0
-            }
-          ]
+          "value": 0.01,
+          "ctn": "Contribution to NRS(%)    : 0.01",
+          "irp": "IBRA Region Protected(%): 31.73",
+          "irp_value": 31.73
         },
         {
           "name": "Jarrah Forest",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.43",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 14.38",
-              "value": 0.0
-            }
-          ]
+          "value": 0.43,
+          "ctn": "Contribution to NRS(%)    : 0.43",
+          "irp": "IBRA Region Protected(%): 14.38",
+          "irp_value": 14.38
         },
         {
           "name": "Little Sandy Desert",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 3.46",
-              "value": 1.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 47.34",
-              "value": 1.0
-            }
-          ]
+          "value": 3.46,
+          "ctn": "Contribution to NRS(%)    : 3.46",
+          "irp": "IBRA Region Protected(%): 47.34",
+          "irp_value": 47.34
         },
         {
           "name": "Mallee",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.88",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 18.04",
-              "value": 0.0
-            }
-          ]
+          "value": 0.88,
+          "ctn": "Contribution to NRS(%)    : 0.88",
+          "irp": "IBRA Region Protected(%): 18.04",
+          "irp_value": 18.04
         },
         {
           "name": "Murchison",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 1.25",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 6.75",
-              "value": 0.0
-            }
-          ]
+          "value": 1.25,
+          "ctn": "Contribution to NRS(%)    : 1.25",
+          "irp": "IBRA Region Protected(%): 6.75",
+          "irp_value": 6.75
         },
         {
           "name": "Northern Kimberley",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 3.58",
-              "value": 1.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 64.36",
-              "value": 1.0
-            }
-          ]
+          "value": 3.58,
+          "ctn": "Contribution to NRS(%)    : 3.58",
+          "irp": "IBRA Region Protected(%): 64.36",
+          "irp_value": 64.36
         },
         {
           "name": "Nullarbor",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 4.11",
-              "value": 2.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 31.61",
-              "value": 2.0
-            }
-          ]
+          "value": 4.11,
+          "ctn": "Contribution to NRS(%)    : 4.11",
+          "irp": "IBRA Region Protected(%): 31.61",
+          "irp_value": 31.61
         },
         {
           "name": "Ord Victoria Plain",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.98",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 11.86",
-              "value": 0.0
-            }
-          ]
+          "value": 0.98,
+          "ctn": "Contribution to NRS(%)    : 0.98",
+          "irp": "IBRA Region Protected(%): 11.86",
+          "irp_value": 11.86
         },
         {
           "name": "Pilbara",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.99",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 8.44",
-              "value": 0.0
-            }
-          ]
+          "value": 0.99,
+          "ctn": "Contribution to NRS(%)    : 0.99",
+          "irp": "IBRA Region Protected(%): 8.44",
+          "irp_value": 8.44
         },
         {
           "name": "Swan Coastal Plain",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.11",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 11.41",
-              "value": 0.0
-            }
-          ]
+          "value": 0.11,
+          "ctn": "Contribution to NRS(%)    : 0.11",
+          "irp": "IBRA Region Protected(%): 11.41",
+          "irp_value": 11.41
         },
         {
           "name": "Tanami",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 7.59",
-              "value": 3.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 44.26",
-              "value": 3.0
-            }
-          ]
+          "value": 7.59,
+          "ctn": "Contribution to NRS(%)    : 7.59",
+          "irp": "IBRA Region Protected(%): 44.26",
+          "irp_value": 44.26
         },
         {
           "name": "Victoria Bonaparte",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.98",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 20.37",
-              "value": 0.0
-            }
-          ]
+          "value": 0.98,
+          "ctn": "Contribution to NRS(%)    : 0.98",
+          "irp": "IBRA Region Protected(%): 20.37",
+          "irp_value": 20.37
         },
         {
           "name": "Warren",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.26",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 46.92",
-              "value": 0.0
-            }
-          ]
+          "value": 0.26,
+          "ctn": "Contribution to NRS(%)    : 0.26",
+          "irp": "IBRA Region Protected(%): 46.92",
+          "irp_value": 46.92
         },
         {
           "name": "Yalgoo",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 1.13",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 33.66",
-              "value": 0.0
-            }
-          ]
+          "value": 1.13,
+          "ctn": "Contribution to NRS(%)    : 1.13",
+          "irp": "IBRA Region Protected(%): 33.66",
+          "irp_value": 33.66
         }
-      ]
+      ],
+      "ctn": "",
+      "irp": ""
     },
     {
       "name": "TAS",
       "children": [
         {
           "name": "Ben Lomond",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.07",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 16.17",
-              "value": 0.0
-            }
-          ]
+          "value": 0.07,
+          "ctn": "Contribution to NRS(%)    : 0.07",
+          "irp": "IBRA Region Protected(%): 16.17",
+          "irp_value": 16.17
         },
         {
           "name": "Furneaux",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.12",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 34.36",
-              "value": 0.0
-            }
-          ]
+          "value": 0.12,
+          "ctn": "Contribution to NRS(%)    : 0.12",
+          "irp": "IBRA Region Protected(%): 34.36",
+          "irp_value": 34.36
         },
         {
           "name": "King",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.06",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 19.81",
-              "value": 0.0
-            }
-          ]
+          "value": 0.06,
+          "ctn": "Contribution to NRS(%)    : 0.06",
+          "irp": "IBRA Region Protected(%): 19.81",
+          "irp_value": 19.81
         },
         {
           "name": "Tasmanian Central Highlands",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.3",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 59.14",
-              "value": 0.0
-            }
-          ]
+          "value": 0.3,
+          "ctn": "Contribution to NRS(%)    : 0.3",
+          "irp": "IBRA Region Protected(%): 59.14",
+          "irp_value": 59.14
         },
         {
           "name": "Tasmanian Northern Midlands",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.02",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 6.44",
-              "value": 0.0
-            }
-          ]
+          "value": 0.02,
+          "ctn": "Contribution to NRS(%)    : 0.02",
+          "irp": "IBRA Region Protected(%): 6.44",
+          "irp_value": 6.44
         },
         {
           "name": "Tasmanian Northern Slopes",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.06",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 14.32",
-              "value": 0.0
-            }
-          ]
+          "value": 0.06,
+          "ctn": "Contribution to NRS(%)    : 0.06",
+          "irp": "IBRA Region Protected(%): 14.32",
+          "irp_value": 14.32
         },
         {
           "name": "Tasmanian South East",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.12",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 16.2",
-              "value": 0.0
-            }
-          ]
+          "value": 0.12,
+          "ctn": "Contribution to NRS(%)    : 0.12",
+          "irp": "IBRA Region Protected(%): 16.2",
+          "irp_value": 16.2
         },
         {
           "name": "Tasmanian Southern Ranges",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.27",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 54.95",
-              "value": 0.0
-            }
-          ]
+          "value": 0.27,
+          "ctn": "Contribution to NRS(%)    : 0.27",
+          "irp": "IBRA Region Protected(%): 54.95",
+          "irp_value": 54.95
         },
         {
           "name": "Tasmanian West",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.89",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 86.23",
-              "value": 0.0
-            }
-          ]
+          "value": 0.89,
+          "ctn": "Contribution to NRS(%)    : 0.89",
+          "irp": "IBRA Region Protected(%): 86.23",
+          "irp_value": 86.23
         }
-      ]
+      ],
+      "ctn": "",
+      "irp": ""
     },
     {
       "name": "QLD",
       "children": [
         {
           "name": "Brigalow Belt North",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.21",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 2.35",
-              "value": 0.0
-            }
-          ]
+          "value": 0.21,
+          "ctn": "Contribution to NRS(%)    : 0.21",
+          "irp": "IBRA Region Protected(%): 2.35",
+          "irp_value": 2.35
         },
         {
           "name": "Brigalow Belt South",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.96",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 5.33",
-              "value": 0.0
-            }
-          ]
+          "value": 0.96,
+          "ctn": "Contribution to NRS(%)    : 0.96",
+          "irp": "IBRA Region Protected(%): 5.33",
+          "irp_value": 5.33
         },
         {
           "name": "Cape York Peninsula",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 2.71",
-              "value": 1.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 33.5",
-              "value": 1.0
-            }
-          ]
+          "value": 2.71,
+          "ctn": "Contribution to NRS(%)    : 2.71",
+          "irp": "IBRA Region Protected(%): 33.5",
+          "irp_value": 33.5
         },
         {
           "name": "Central Mackay Coast",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.13",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 13.75",
-              "value": 0.0
-            }
-          ]
+          "value": 0.13,
+          "ctn": "Contribution to NRS(%)    : 0.13",
+          "irp": "IBRA Region Protected(%): 13.75",
+          "irp_value": 13.75
         },
         {
           "name": "Channel Country",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 2.1",
-              "value": 1.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 10.46",
-              "value": 1.0
-            }
-          ]
+          "value": 2.1,
+          "ctn": "Contribution to NRS(%)    : 2.1",
+          "irp": "IBRA Region Protected(%): 10.46",
+          "irp_value": 10.46
         },
         {
           "name": "Darling Riverine Plains",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.19",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 2.66",
-              "value": 0.0
-            }
-          ]
+          "value": 0.19,
+          "ctn": "Contribution to NRS(%)    : 0.19",
+          "irp": "IBRA Region Protected(%): 2.66",
+          "irp_value": 2.66
         },
         {
           "name": "Desert Uplands",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.15",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 3.18",
-              "value": 0.0
-            }
-          ]
+          "value": 0.15,
+          "ctn": "Contribution to NRS(%)    : 0.15",
+          "irp": "IBRA Region Protected(%): 3.18",
+          "irp_value": 3.18
         },
         {
           "name": "Einasleigh Uplands",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.55",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 7.2",
-              "value": 0.0
-            }
-          ]
+          "value": 0.55,
+          "ctn": "Contribution to NRS(%)    : 0.55",
+          "irp": "IBRA Region Protected(%): 7.2",
+          "irp_value": 7.2
         },
         {
           "name": "Gulf Fall and Uplands",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 1.91",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 24.37",
-              "value": 0.0
-            }
-          ]
+          "value": 1.91,
+          "ctn": "Contribution to NRS(%)    : 1.91",
+          "irp": "IBRA Region Protected(%): 24.37",
+          "irp_value": 24.37
         },
         {
           "name": "Gulf Plains",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.9",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 6.22",
-              "value": 0.0
-            }
-          ]
+          "value": 0.9,
+          "ctn": "Contribution to NRS(%)    : 0.9",
+          "irp": "IBRA Region Protected(%): 6.22",
+          "irp_value": 6.22
         },
         {
           "name": "Mitchell Grass Downs",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.35",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 1.57",
-              "value": 0.0
-            }
-          ]
+          "value": 0.35,
+          "ctn": "Contribution to NRS(%)    : 0.35",
+          "irp": "IBRA Region Protected(%): 1.57",
+          "irp_value": 1.57
         },
         {
           "name": "Mount Isa Inlier",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.25",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 5.56",
-              "value": 0.0
-            }
-          ]
+          "value": 0.25,
+          "ctn": "Contribution to NRS(%)    : 0.25",
+          "irp": "IBRA Region Protected(%): 5.56",
+          "irp_value": 5.56
         },
         {
           "name": "Mulga Lands",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.79",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 4.77",
-              "value": 0.0
-            }
-          ]
+          "value": 0.79,
+          "ctn": "Contribution to NRS(%)    : 0.79",
+          "irp": "IBRA Region Protected(%): 4.77",
+          "irp_value": 4.77
         },
         {
           "name": "Nandewar",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.06",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 3.53",
-              "value": 0.0
-            }
-          ]
+          "value": 0.06,
+          "ctn": "Contribution to NRS(%)    : 0.06",
+          "irp": "IBRA Region Protected(%): 3.53",
+          "irp_value": 3.53
         },
         {
           "name": "New England Tablelands",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.2",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 10.08",
-              "value": 0.0
-            }
-          ]
+          "value": 0.2,
+          "ctn": "Contribution to NRS(%)    : 0.2",
+          "irp": "IBRA Region Protected(%): 10.08",
+          "irp_value": 10.08
         },
         {
           "name": "Simpson Strzelecki Dunefields",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 5.7",
-              "value": 2.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 30.85",
-              "value": 2.0
-            }
-          ]
+          "value": 5.7,
+          "ctn": "Contribution to NRS(%)    : 5.7",
+          "irp": "IBRA Region Protected(%): 30.85",
+          "irp_value": 30.85
         },
         {
           "name": "South Eastern Queensland",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.73",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 14.21",
-              "value": 0.0
-            }
-          ]
+          "value": 0.73,
+          "ctn": "Contribution to NRS(%)    : 0.73",
+          "irp": "IBRA Region Protected(%): 14.21",
+          "irp_value": 14.21
         },
         {
           "name": "Wet Tropics",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.69",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 52.91",
-              "value": 0.0
-            }
-          ]
+          "value": 0.69,
+          "ctn": "Contribution to NRS(%)    : 0.69",
+          "irp": "IBRA Region Protected(%): 52.91",
+          "irp_value": 52.91
         }
-      ]
+      ],
+      "ctn": "",
+      "irp": ""
     },
     {
       "name": "SA",
       "children": [
         {
           "name": "Broken Hill Complex",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.14",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 3.76",
-              "value": 0.0
-            }
-          ]
+          "value": 0.14,
+          "ctn": "Contribution to NRS(%)    : 0.14",
+          "irp": "IBRA Region Protected(%): 3.76",
+          "irp_value": 3.76
         },
         {
           "name": "Central Ranges",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 5.45",
-              "value": 2.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 81.32",
-              "value": 2.0
-            }
-          ]
+          "value": 5.45,
+          "ctn": "Contribution to NRS(%)    : 5.45",
+          "irp": "IBRA Region Protected(%): 81.32",
+          "irp_value": 81.32
         },
         {
           "name": "Channel Country",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 2.1",
-              "value": 1.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 10.46",
-              "value": 1.0
-            }
-          ]
+          "value": 2.1,
+          "ctn": "Contribution to NRS(%)    : 2.1",
+          "irp": "IBRA Region Protected(%): 10.46",
+          "irp_value": 10.46
         },
         {
           "name": "Eyre Yorke Block",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.61",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 15.11",
-              "value": 0.0
-            }
-          ]
+          "value": 0.61,
+          "ctn": "Contribution to NRS(%)    : 0.61",
+          "irp": "IBRA Region Protected(%): 15.11",
+          "irp_value": 15.11
         },
         {
           "name": "Finke",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.22",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 4.6",
-              "value": 0.0
-            }
-          ]
+          "value": 0.22,
+          "ctn": "Contribution to NRS(%)    : 0.22",
+          "irp": "IBRA Region Protected(%): 4.6",
+          "irp_value": 4.6
         },
         {
           "name": "Flinders Lofty Block",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.39",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 8.94",
-              "value": 0.0
-            }
-          ]
+          "value": 0.39,
+          "ctn": "Contribution to NRS(%)    : 0.39",
+          "irp": "IBRA Region Protected(%): 8.94",
+          "irp_value": 8.94
         },
         {
           "name": "Gawler",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 1.26",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 15.92",
-              "value": 0.0
-            }
-          ]
+          "value": 1.26,
+          "ctn": "Contribution to NRS(%)    : 1.26",
+          "irp": "IBRA Region Protected(%): 15.92",
+          "irp_value": 15.92
         },
         {
           "name": "Great Victoria Desert",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 8.53",
-              "value": 4.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 30.62",
-              "value": 4.0
-            }
-          ]
+          "value": 8.53,
+          "ctn": "Contribution to NRS(%)    : 8.53",
+          "irp": "IBRA Region Protected(%): 30.62",
+          "irp_value": 30.62
         },
         {
           "name": "Hampton",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.11",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 14.64",
-              "value": 0.0
-            }
-          ]
+          "value": 0.11,
+          "ctn": "Contribution to NRS(%)    : 0.11",
+          "irp": "IBRA Region Protected(%): 14.64",
+          "irp_value": 14.64
         },
         {
           "name": "Kanmantoo",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.11",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 20.3",
-              "value": 0.0
-            }
-          ]
+          "value": 0.11,
+          "ctn": "Contribution to NRS(%)    : 0.11",
+          "irp": "IBRA Region Protected(%): 20.3",
+          "irp_value": 20.3
         },
         {
           "name": "Murray Darling Depression",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 2.24",
-              "value": 1.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 17.01",
-              "value": 1.0
-            }
-          ]
+          "value": 2.24,
+          "ctn": "Contribution to NRS(%)    : 2.24",
+          "irp": "IBRA Region Protected(%): 17.01",
+          "irp_value": 17.01
         },
         {
           "name": "Naracoorte Coastal Plain",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.16",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 9.62",
-              "value": 0.0
-            }
-          ]
+          "value": 0.16,
+          "ctn": "Contribution to NRS(%)    : 0.16",
+          "irp": "IBRA Region Protected(%): 9.62",
+          "irp_value": 9.62
         },
         {
           "name": "Nullarbor",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 4.11",
-              "value": 2.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 31.61",
-              "value": 2.0
-            }
-          ]
+          "value": 4.11,
+          "ctn": "Contribution to NRS(%)    : 4.11",
+          "irp": "IBRA Region Protected(%): 31.61",
+          "irp_value": 31.61
         },
         {
           "name": "Riverina",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.36",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 5.59",
-              "value": 0.0
-            }
-          ]
+          "value": 0.36,
+          "ctn": "Contribution to NRS(%)    : 0.36",
+          "irp": "IBRA Region Protected(%): 5.59",
+          "irp_value": 5.59
         },
         {
           "name": "Simpson Strzelecki Dunefields",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 5.7",
-              "value": 2.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 30.85",
-              "value": 2.0
-            }
-          ]
+          "value": 5.7,
+          "ctn": "Contribution to NRS(%)    : 5.7",
+          "irp": "IBRA Region Protected(%): 30.85",
+          "irp_value": 30.85
         },
         {
           "name": "Southern Volcanic Plain",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.03",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 2.13",
-              "value": 0.0
-            }
-          ]
+          "value": 0.03,
+          "ctn": "Contribution to NRS(%)    : 0.03",
+          "irp": "IBRA Region Protected(%): 2.13",
+          "irp_value": 2.13
         },
         {
           "name": "Stony Plains",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.62",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 7.17",
-              "value": 0.0
-            }
-          ]
+          "value": 0.62,
+          "ctn": "Contribution to NRS(%)    : 0.62",
+          "irp": "IBRA Region Protected(%): 7.17",
+          "irp_value": 7.17
         }
-      ]
+      ],
+      "ctn": "",
+      "irp": ""
     },
     {
       "name": "EXT",
       "children": [
         {
           "name": "Indian Tropical Islands",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.01",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 31.73",
-              "value": 0.0
-            }
-          ]
+          "value": 0.01,
+          "ctn": "Contribution to NRS(%)    : 0.01",
+          "irp": "IBRA Region Protected(%): 31.73",
+          "irp_value": 31.73
         },
         {
           "name": "Pacific Subtropical Islands",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.0",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 33.66",
-              "value": 0.0
-            }
-          ]
+          "value": 0.0,
+          "ctn": "Contribution to NRS(%)    : 0.0",
+          "irp": "IBRA Region Protected(%): 33.66",
+          "irp_value": 33.66
         }
-      ]
+      ],
+      "ctn": "",
+      "irp": ""
     },
     {
       "name": "JBT",
       "children": [
         {
           "name": "Sydney Basin",
-          "children": [
-            {
-              "name": "Contribution to NRS(%): 0.96",
-              "value": 0.0
-            },
-            {
-              "name": "IBRA Region Protected(%): 40.14",
-              "value": 0.0
-            }
-          ]
+          "value": 0.96,
+          "ctn": "Contribution to NRS(%)    : 0.96",
+          "irp": "IBRA Region Protected(%): 40.14",
+          "irp_value": 40.14
         }
-      ]
+      ],
+      "ctn": "",
+      "irp": ""
     }
   ]
 }
