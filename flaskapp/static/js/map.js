@@ -29,7 +29,8 @@ function createMarkers(response) {
   }
 }
 
-var IBRAqueryUrl = "http://localhost/api/ibra";
+// var IBRAqueryUrl = "http://localhost:5000/api/ibra";
+var IBRAqueryUrl = "https://monu-mel-data-project-02.herokuapp.com/api/ibra"
 
 d3.json(IBRAqueryUrl, createMarkers);
 

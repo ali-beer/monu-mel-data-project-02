@@ -1,7 +1,8 @@
 // https://observablehq.com/@d3/zoomable-sunburst@353
 export default function define(runtime, observer) {
   const main = runtime.module();
-  const fileAttachments = new Map([["flare-2.json", new URL("http://localhost/api/sunburst", import.meta.url)]]);
+  // const fileAttachments = new Map([["flare-2.json", new URL("http://localhost:5000/api/sunburst", import.meta.url)]]);
+  const fileAttachments = new Map([["flare-2.json", new URL("https://monu-mel-data-project-02.herokuapp.com/api/sunburst", import.meta.url)]]);
   main.builtin("FileAttachment", runtime.fileAttachments(name => fileAttachments.get(name)));
   main.variable(observer()).define(["md"], function(md){
     return md``
